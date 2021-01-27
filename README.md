@@ -1,6 +1,32 @@
 CHANGELOG EMITIDO POR DAVOKER
 
-Versión de la traduccion v29b:
+#Versión de la traduccion v30c: - 25/01/2021
+
+-----------------------
+
+- Traducido el archivo de "locations.config" al completo, es el que lleva los "nombres de zonas" que vemos en las misiones aleatorias, el archivo a sido traducido por "Swon", un compi de Steam que a colaborado conmigo.
+
+- S.A.I.L y SAIL, la IA de la nave, que viene del ingles "Ship-based Artificial Intelligence Lattice" y traducido como "Inteligencia Artificial de la Nave", pero conservando su abreviatura en ingles "SAIL", ha sido re-traducido a su traducción correcta como "Red de Inteligencia Artificial de la Nave", por lo tanto, "S.A.I.L y SAIL" pasan a ser "R.I.A.N y RIAN" respectivamente en todos los textos en los que este nombre aparece.
+
+- Añadidas descripciones muy descriptivas de todos los efectos de estado que el jugador puede sufrir, donde antes solo veíamos el nombre, por ejemplo "Ardiendo" o "Envenenado", ahora vemos los efectos reales con números, es decir, cuanto daño hace por segundo o, si es beneficioso, cuanto cura o que porcentaje de mejora de salto o carrera proporciona. Descripciones de estado completas, podremos ver estas descripciones simplemente pasando la flecha por encima del icono en cuestión O debajo de la barra de vida de nuestro personaje.
+
+- Traducidas todas las habilidades especiales de todos los tipos de armas.
+
+- Cambiado el color del icono de los Pacificadores (Peacekeepers, del update 1.4), se trata del que vemos en el navegador de la nave y nos indica al pulsarlo donde está nuestra base actual de Pacificadores (en que sistema se encuentra), para que sea mas distinguible del resto de iconos del navegador.
+
+Esto ayuda a no confundirse por no ver el icono en el navegador, (llevando quizá a pensar que se ha bugueado porque no sabemos como volver a la base).
+
+- Corregidas múltiples descripciones de diferentes tipos de objetos, sobre todo nombres que eran demasiado largos y se salían del cuadro/gráfico de texto (aun quedan correciones de este tipo, son muchas, así que poco a poco).
+
+- Traducidas mas descripciones de diferentes objetos, es el mayor groso de lo que queda por traducir y que aún queda bastante.
+
+- Traducidos un par de diálogos del update 1.4.4 que se habían obviado, incluyendo el nombre "Captain Noble" a "Capitán Noble" en las ventanas emergentes despues de completar, iniciar o fallar una misión para los Pacificadores.
+
+- Revisados un buen número de diálogos para cambiarlos por una correcta (o mas adecuada al menos) traducción, debido a que no se sabe el contexto al traducir, a veces es complicado que todo encaje.
+
+########################################
+
+#Versión de la traduccion v29b:
 
 -----------------------
 
